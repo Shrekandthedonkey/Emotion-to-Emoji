@@ -1,0 +1,48 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 250px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+
+padding:5px;
+border-color:rgb(168, 199, 189);
+border-width:3px;
+border-style:dashed;
+font-family: "Caveat", serif;
+font-weight:bold;
+text-shadow: 2px 2px steelblue;
+font-size:48px;
+font-variant:small-caps;
+}
+label {
+
+background-color: beige;
+color:rgb(134, 70, 54);
+border-radius:30px;
+padding:6px;
+font-weight:800;
+
+}
